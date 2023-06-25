@@ -1075,7 +1075,7 @@ body {
 	transition: all ease 0.5s;
 	position: absolute;
 	overflow: visible;
-	width: 6.615vw;
+    width: 8.65vw;
 	height: 0.833vw;
 	line-height: 1.406vw;
 	margin-top: -0.391vw;
@@ -1094,7 +1094,7 @@ body {
 	transition: all ease 0.5s;
 	position: absolute;
 	overflow: visible;
-	width: 3.906vw;
+	width: 6.646vw;
 	height: 0.833vw;
 	line-height: 1.406vw;
 	margin-top: -0.391vw;
@@ -1113,7 +1113,7 @@ body {
 	transition: all ease 0.5s;
 	position: absolute;
 	overflow: visible;
-	width: 3.646vw;
+	width: 6.646vw;
 	height: 0.833vw;
 	line-height: 1.406vw;
 	margin-top: -0.391vw;
