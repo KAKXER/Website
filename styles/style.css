@@ -224,7 +224,7 @@ body {
   width: 100%;
   height: 100%;
   background-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2023-12-13/sakura/intro.png");
-  background-size: 100% auto;
+  background-size: 100% 100%;
   border-radius: 8px;
   pointer-events: none;
 }
@@ -235,7 +235,7 @@ body {
   width: 100%;
   height: 100%;
   background-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2e46d5d2d9e/sakura/loop.png");
-  background-size: 100% auto;
+  background-size: 100% 100%;
   border-radius: 8px;
 }
 
